@@ -1,0 +1,25 @@
+# Dataset
+
+DATA/data/
+
+# Model checkpoints
+
+DATA/exp_state/
+
+# Matlab files
+
+*.mat
+
+# PyTorch models
+
+*.pth
+*.pt
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# VSCode
+
+.vscode/
